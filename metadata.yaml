@@ -1,0 +1,25 @@
+_repo: Stories-from-the-Old-Attic_240
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, Robert A., Ph.D.
+    birthdate: 1950
+    gutenberg_agent_id: '134'
+    url: http://www.gutenberg.org/2009/agents/134
+description: ''
+gutenberg_issued: '1995-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '240'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fables'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Stories from the Old Attic
+url: http://www.gutenberg.org/ebooks/240
